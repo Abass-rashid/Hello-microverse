@@ -2,14 +2,14 @@
 
 # Project Name
 
-> Description the project.
+> Hello microverse.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5
+- CSS3
+
 
 ## Live Demo (if available)
 
